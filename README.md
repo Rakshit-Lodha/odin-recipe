@@ -1,2 +1,2 @@
 # odin-recipe
-practicing stuff
+I am practicing HTML through odin
